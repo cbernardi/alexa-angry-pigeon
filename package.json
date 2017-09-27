@@ -1,0 +1,14 @@
+{
+  "name": "pigeonPI-skill",
+  "version": "1.0.0",
+  "description": "Pigeon PI knows everything, but has a terrible attitude.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Bernardi <chris@simplyand.com> (http://simplyand.com)",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}

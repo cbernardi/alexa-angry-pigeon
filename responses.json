@@ -1,0 +1,16 @@
+{
+    "LaunchRequest": 
+    {
+        "ask": "What? What do you want?",
+        "reprompt": "Wait, what?"
+    },
+    "AMAZON.HelpIntent":
+    {
+        "ask": "Do I have to spell it out for you? Ask about the weather or your day or just go away.",
+        "reprompt": "Wait, what?"
+    },
+    "AMAZON.StopIntent":
+    {
+        "tell": "Go away!"
+    }
+}
